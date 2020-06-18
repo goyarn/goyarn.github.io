@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "goyarn"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "유사과학이 좋아요"
+  bio              : "코딩잼"
   location         : "South Korea"
   email            :
   links:
@@ -104,7 +104,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://goyarn.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/goyarn"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
