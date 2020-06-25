@@ -11,7 +11,7 @@ last_modified_at: 2020-06-25T11:40:00+09:00
 use_math: true
 ---
 
-<https://boj.kr/1128>
+<https://www.acmicpc.net/problem/1128>
 
 ## 문제
 유명한 냅색 문제이지만, 무게의 범위가 $10^{16}$ 까지입니다. 따라서 무게를 인자로 사용하는  DP로는 해결이 안 됩니다.
